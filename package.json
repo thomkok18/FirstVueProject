@@ -10,14 +10,14 @@
   "dependencies": {
     "vee-validate": "^2.2.9",
     "vue": "^2.6.10",
-    "vue-router": "^3.1.5",
-    "yarn": "^1.22.0"
+    "vue-router": "^3.1.6",
+    "yarn": "^1.22.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.12.1",
-    "@vue/cli-plugin-eslint": "^3.12.1",
-    "@vue/cli-service": "^4.2.2",
-    "babel-eslint": "^10.0.3",
+    "@vue/cli-plugin-eslint": "^4.3.1",
+    "@vue/cli-service": "^4.3.1",
+    "babel-eslint": "^10.1.0",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.2.3",
     "vue-template-compiler": "^2.6.11"
