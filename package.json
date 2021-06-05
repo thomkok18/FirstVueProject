@@ -8,19 +8,19 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "vee-validate": "^2.2.9",
-    "vue": "^2.6.10",
-    "vue-router": "^3.1.6",
-    "yarn": "^1.22.4"
+    "vee-validate": "^3.4.8",
+    "vue": "^2.6.13",
+    "vue-router": "^3.5.1",
+    "yarn": "^1.22.10"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.12.1",
-    "@vue/cli-plugin-eslint": "^4.3.1",
-    "@vue/cli-service": "^4.3.1",
+    "@vue/cli-plugin-babel": "^4.5.13",
+    "@vue/cli-plugin-eslint": "^4.5.13",
+    "@vue/cli-service": "^4.5.13",
     "babel-eslint": "^10.1.0",
-    "eslint": "^5.16.0",
-    "eslint-plugin-vue": "^5.2.3",
-    "vue-template-compiler": "^2.6.11"
+    "eslint": "^7.28.0",
+    "eslint-plugin-vue": "^7.10.0",
+    "vue-template-compiler": "^2.6.13"
   },
   "eslintConfig": {
     "root": true,
