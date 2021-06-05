@@ -10,8 +10,7 @@
   "dependencies": {
     "vee-validate": "^3.4.8",
     "vue": "^2.6.13",
-    "vue-router": "^3.5.1",
-    "yarn": "^1.22.10"
+    "vue-router": "^3.5.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.13",
